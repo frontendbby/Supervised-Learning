@@ -55,5 +55,3 @@ Para garantizar la estabilidad del modelo, se implementaron técnicas de diagnó
 3. Ejecutar el script: `python comp_pred.py`.
 ---
 
-
-**¿Te gustaría que añadamos alguna sección sobre cómo interpretar específicamente el resumen del modelo (P-values) para que los reclutadores vean que sabes leer la significancia estadística?** Sería el toque final perfecto.
