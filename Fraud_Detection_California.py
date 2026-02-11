@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 # Generacion de datos:
 def generate_data(n=2000):
-    """Simula un dataset de reclamos de seguros con patrones de fraude."""
+    """Simula un dataset"""
     np.random.seed(42)
     data = {
         'claim_id': [f'CLM_{i:04d}' for i in range(n)],
@@ -180,4 +180,5 @@ plt.title('Antes de SMOTE (Desbalanceado)')
 plt.subplot(1, 2, 2)
 sns.countplot(x=y_train_smote, palette='viridis')
 plt.title('Después de SMOTE (Equilibrado)')
+
 plt.show()
