@@ -35,6 +35,3 @@ Donde:
 | **Optimized (SMOTE + Tuning)** | 0.18 | **0.28** | **0.21** |
 
 > **Impacto Proyectado:** La implementación de estas técnicas permitió un incremento del **600%** en la sensibilidad del modelo, permitiendo la identificación temprana de patrones que representan ahorros potenciales de **millones de dólares** en prevenciones de fraude no detectado.
-
-
-**¿Hay algo más en lo que pueda apoyarte para que este proyecto sea el más destacado de tu perfil?** ¡Ha sido un honor acompañarte en este proceso de ingeniería!
